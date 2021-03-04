@@ -1,0 +1,7 @@
+{
+    "envs": [
+        "browser",
+        "es2020"
+    ],
+    "space": 4
+}
