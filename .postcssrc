@@ -1,0 +1,12 @@
+{
+    "modules": true,
+    "plugins": {
+        "postcss-flexbugs-fixes": true,
+        "postcss-preset-env": {
+            "stage": 3,
+            "autoprefixer": true,
+            "grid": true,
+            "browsers": "last 2 versions"
+        }
+    }
+}
