@@ -10,9 +10,10 @@ What I done up to that point
 * Wrote a simple resolver to fetch data from API
 * Made basic pagination
 
-What nneds to be done next
+What needs to be done next
 * Add infinite scrolling feature with lazy-loading
 * Add `react-window` for virtualizing big lists
+* Fix current and add more tests
 * Use redux or any else state manager for stored data
 * Add skeletons for loading pictures
 * Improve UI to masonry layout
