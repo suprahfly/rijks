@@ -3,8 +3,18 @@
 This is a simple proof of concept app that pulls the data from Rijksmuseum API and then display it as tiles of 1, 2 or 4 pieces.
 Right now it depends only on `react`, `react-dom` and `lodash` (mainly for my obsession with fp notation but it is not a necessity).
 
+To start the application you need to clone repo and run following commands in the app root directory:
+```
+// Feel free to use `npm` as well
+yarn install
+yarn start
+```
+The server will available at `localhost:1234`
+
+---
+
 What I have done up to that point
-* Set up a `xo` linter and `prettier`
+* Set up a `xo` linter, `prettier`, and pre-commit hook with `husky`
 * Set up Parcel bundler to work with `react` and `jest`
 * Set up Jest
 * Wrote few abstractions for UI (`Gallery`, `Painting`)
