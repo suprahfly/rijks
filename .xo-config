@@ -19,9 +19,13 @@
         ],
         "import/extensions": [
             "error",
+            "never",
             {
-                "json": "always"
+                "json": "always",
+                "css": "always",
+                "jpg": "always"
             }
         ]
-    }
+    },
+    "parser": "@babel/eslint-parser"
 }
