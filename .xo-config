@@ -1,7 +1,27 @@
 {
+    "extends": "xo-react",
     "envs": [
         "browser",
-        "es2020"
+        "es2020",
+        "jest"
     ],
-    "space": 4
+    "space": 4,
+    "prettier": true,
+    "rules": {
+        "node/file-extension-in-import": [
+            "error",
+            "always",
+            {
+                ".js": "never",
+                ".jsx": "never",
+                ".json": "always"
+            }
+        ],
+        "import/extensions": [
+            "error",
+            {
+                "json": "always"
+            }
+        ]
+    }
 }
