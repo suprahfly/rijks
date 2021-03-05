@@ -1,6 +1,7 @@
 ### Explore Rijksmuseum
 
-This is a simple proof of concept app that pulls the data from Rijksmuseum API and then display it as tiles of 1, 2 or 4 pieces. Right now it depends only on `react`, `react-dom` and `lodash` (mainly for my obsession with fp notation but it is not a nesessety).
+This is a simple proof of concept app that pulls the data from Rijksmuseum API and then display it as tiles of 1, 2 or 4 pieces.
+Right now it depends only on `react`, `react-dom` and `lodash` (mainly for my obsession with fp notation but it is not a necessity).
 
 What I have done up to that point
 * Set up a `xo` linter and prettier
