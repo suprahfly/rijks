@@ -1,0 +1,2839 @@
+{
+    "elapsedMilliseconds": 0,
+    "count": 568,
+    "countFacets": {
+        "hasimage": 568,
+        "ondisplay": 568
+    },
+    "artObjects": [
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-447",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-447"
+            },
+            "id": "en-SK-A-447",
+            "objectNumber": "SK-A-447",
+            "title": "Fishing for Souls",
+            "hasImage": true,
+            "principalOrFirstMaker": "Adriaen Pietersz. van de Venne",
+            "longTitle": "Fishing for Souls, Adriaen Pietersz. van de Venne, 1614",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "60a5c836-c8f9-4265-8afe-a14706259554",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 6531,
+                "height": 3940,
+                "url": "https://lh3.googleusercontent.com/6sHAvl6_uu8UUg2tQ5I7HC3X5TCEW9JlWKLfdjxSQGXv9Xnur1VQbiN2CIXDq7rFtnhjes0ga-YFg6obNIUX9GPdv_z81LufDtSndtmEAw=s0"
+            },
+            "headerImage": {
+                "guid": "dd63c518-2e64-495e-824f-440f1b9fb5b0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/XsRwIXaqseXksP-b5-cDBwMCOE6MMw4T3MV-eZR32Gm2prJ68bzcq3TY3d4qn8kxvHq03yJ-PVcVnyw35zrwp2S3GfihDY1LFPjZVZln=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1505",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1505"
+            },
+            "id": "en-SK-A-1505",
+            "objectNumber": "SK-A-1505",
+            "title": "A Windmill on a Polder Waterway, Known as ‘In the Month of July’",
+            "hasImage": true,
+            "principalOrFirstMaker": "Paul Joseph Constantin Gabriël",
+            "longTitle": "A Windmill on a Polder Waterway, Known as ‘In the Month of July’, Paul Joseph Constantin Gabriël, c. 1889",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "3e83eca2-5306-4d6d-b499-f86091c81d39",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1767,
+                "height": 2748,
+                "url": "https://lh3.googleusercontent.com/nfJiRConmXf4QR1bK3-E456qIEp2bYtuemyy3P3t7PonntyGJ8iPzFNKJPhZFCSSmJmj2AHePE4V1xl3BOz2NT8mfbNg=s0"
+            },
+            "headerImage": {
+                "guid": "34e94d7f-4d7a-464e-b3f9-eb5532f98c27",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1767,
+                "height": 424,
+                "url": "https://lh3.googleusercontent.com/aBYq1zHv15e7b3QhO20l8calrdCVOljfAjpoZeipAFZi53VhuDD-CFOym2ICOWD10C79flH_nW7rU7XBOQCKq50ozlY=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-175",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-175"
+            },
+            "id": "en-SK-A-175",
+            "objectNumber": "SK-A-175",
+            "title": "A Pelican and other Birds near a Pool, Known as ‘The Floating Feather’",
+            "hasImage": true,
+            "principalOrFirstMaker": "Melchior d'Hondecoeter",
+            "longTitle": "A Pelican and other Birds near a Pool, Known as ‘The Floating Feather’, Melchior d'Hondecoeter, c. 1680",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "6753e473-6fea-4c5c-8014-454ba4c393ec",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2388,
+                "height": 2640,
+                "url": "https://lh3.googleusercontent.com/3UIOtn2DLhEC4W92V0_pIdChloiYyzpXvehK0BYaM3NHJR5zWhcA7uXlcNX_mCAt9xBh3gaHo3pDuriYzYm3uEDbeUEr=s0"
+            },
+            "headerImage": {
+                "guid": "c3a7ea42-4186-45d4-bdab-4a0b4315a91a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/eCpzK6ikH0uo2ntqgYX0cg49M9lInJk8I3jrWt8xJszJoDfrqz5L4N3xRaWPA4X6CHn6G8xfGc1seAK-16I8oKdRTa58=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2815",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2815"
+            },
+            "id": "en-SK-A-2815",
+            "objectNumber": "SK-A-2815",
+            "title": "The Seven Works of Mercy",
+            "hasImage": true,
+            "principalOrFirstMaker": "Master of Alkmaar",
+            "longTitle": "The Seven Works of Mercy, Master of Alkmaar, 1504",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "dbb93884-cd17-4c10-a32e-2fb0aa9bdce5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 635,
+                "url": "https://lh3.googleusercontent.com/PKiHHjb5ov-6RQm4WjTmQL7gQsiqz-jTgy6aJoUfXFPB-FPJF2XMcgjdpf0rMfPtQoePma2oYkAiN83RDwlyU34phg=s0"
+            },
+            "headerImage": {
+                "guid": "8b08174c-b8f1-4a40-a8f8-20d98d426183",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/lEPMS16z9Y8aEsbUYI-zE-rTFqKa8AE63loPpzSkZWFFJ8RSxA7BKvgGsn3yOvC6udiX61dF4_smw3SG0-yfksfQ8YDs=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-5033",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-5033"
+            },
+            "id": "en-SK-A-5033",
+            "objectNumber": "SK-A-5033",
+            "title": "Marten Soolmans",
+            "hasImage": true,
+            "principalOrFirstMaker": "Rembrandt van Rijn",
+            "longTitle": "Marten Soolmans, Rembrandt van Rijn, 1634",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "974d1c9c-befa-4e1a-9926-ebd7f89557b5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 4757,
+                "height": 7485,
+                "url": "https://lh3.googleusercontent.com/hDN8_JS4BbbksBXkxIDUldJvooejHBfQjgD3b_Jr73HjVOAs8thpnvCJA3WUtQFxlbjx-QB1-IyqhgEiM4dFLFk1Sg=s0"
+            },
+            "headerImage": {
+                "guid": "e6a28349-49ae-4c69-a971-ad8836936a1d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/smzena2yZjz8hCuzMNaAYbvFXqqPN-vSvs-ryFKz2KsNAzVdXm4kfLbK9PrpwI2f9eCO44PNIbBYv18HaufxMsHYqg=s0"
+            },
+            "productionPlaces": [
+                "Amsterdam"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-1768",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-1768"
+            },
+            "id": "en-SK-C-1768",
+            "objectNumber": "SK-C-1768",
+            "title": "Oopjen Coppit",
+            "hasImage": true,
+            "principalOrFirstMaker": "Rembrandt van Rijn",
+            "longTitle": "Oopjen Coppit, Rembrandt van Rijn, 1634",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "6dd85188-6e00-45f5-a749-b0d6f7bf373b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 4746,
+                "height": 7485,
+                "url": "https://lh3.googleusercontent.com/ib8SNTK2Qk-z64UYuu-_mI3FswMpYmmNU871wu5diDEPyjxmYJcNI4qRtqxlvKkVnrXTAxAFkuHX7DAN9ZwPFzS5fGE=s0"
+            },
+            "headerImage": {
+                "guid": "6ac7e269-da2e-4bf3-a870-809db805fe62",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 4746,
+                "height": 1134,
+                "url": "https://lh3.googleusercontent.com/ydZiwQgiic6wYdPwjbx5s04tdOHwkOgbA_lvtMrQvjWMqz4rYJRrxCn0s3592MfHWN6K__QlR48S962J8c4mHEzYwwY=s0"
+            },
+            "productionPlaces": [
+                "Amsterdam"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-5003",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-5003"
+            },
+            "id": "en-SK-A-5003",
+            "objectNumber": "SK-A-5003",
+            "title": "View of the Golden Bend in the Herengracht",
+            "hasImage": true,
+            "principalOrFirstMaker": "Gerrit Berckheyde",
+            "longTitle": "View of the Golden Bend in the Herengracht, Gerrit Berckheyde, 1671 - 1672",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "8930dd6f-b966-434e-a434-c66392fd78d0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2904,
+                "height": 2092,
+                "url": "https://lh3.googleusercontent.com/Rvymv3LXhOcFOVnZpZSGoUJ8oMGjFyOmc-Ys43EMqe9QfpJYc4j5Mg9B8goHKH8gwJSKAhTDj2VeT2T3s8Sn1eu2QrY=s0"
+            },
+            "headerImage": {
+                "guid": "4787a4be-33ed-4a52-9bf3-75cb7886565d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/YGf8u3mAsP712K8qUMjLQMEprEl8Nt3Tv2UdKBZPLjYKyvixdpKNT8hXAcYi992E4RFA61tyTE9HsIxSBujgkHdwP00=s0"
+            },
+            "productionPlaces": [
+                "Amsterdam"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-5002",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-5002"
+            },
+            "id": "en-SK-A-5002",
+            "objectNumber": "SK-A-5002",
+            "title": "Square Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Karel Appel",
+            "longTitle": "Square Man, Karel Appel, 1951",
+            "showImage": true,
+            "permitDownload": false,
+            "webImage": {
+                "guid": "4a06adf3-ad50-4848-97e1-865d2d28af20",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2481,
+                "height": 2508,
+                "url": "https://lh3.googleusercontent.com/sETFUAS5g-kgduf7go5qt0he3p4jeDMVXX5tX0LGP9xYvqcCsWF7R_E-LK02zYtmca80cpZnrKs04xo6CwZ2P9ev2ME=s0"
+            },
+            "headerImage": {
+                "guid": "a754c0f2-be03-458c-b686-54c642fb9e8a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/y9rnVI7u_sVe68zlmmrdNSoExtUfKHZoTtaSW7r9fGkS6YeCIsCbySqcMGfDzhFQmGcPDyySFUqwdH6lejZ_O09AacM=s0"
+            },
+            "productionPlaces": [
+                "Paris"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-5005",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-5005"
+            },
+            "id": "en-SK-A-5005",
+            "objectNumber": "SK-A-5005",
+            "title": "Girl in a Large Hat",
+            "hasImage": true,
+            "principalOrFirstMaker": "Caesar Boëtius van Everdingen",
+            "longTitle": "Girl in a Large Hat, Caesar Boëtius van Everdingen, c. 1645 - c. 1650",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "0f464408-efaf-448e-a788-53cbc273f405",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2655,
+                "height": 3000,
+                "url": "https://lh3.googleusercontent.com/7SCpHk2od2XtCFtdEi9fUT91F7CwawoLPWH5Jlrkksv79_JST7-dBpvuBWqjr65LQc8z_8O2lxQvQJFlfE763Da6REE=s0"
+            },
+            "headerImage": {
+                "guid": "9409e742-f9dc-40ca-ac17-cd69dbab1e71",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/qYpL4CUs_zMA7bhcK8vlEwqi_b5q9cgnhvuxMza2yyPxTABe3Oxj5hMe0zS6KKdkj010P-7iQKKJrZTXFOTWYXs2zMg=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-37",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-37"
+            },
+            "id": "en-NG-2010-37",
+            "objectNumber": "NG-2010-37",
+            "title": "Javanese Court Officials",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javanese Court Officials, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "7c99443f-e434-4ea2-b2e7-3edb83b688f7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 836,
+                "height": 2427,
+                "url": "https://lh3.googleusercontent.com/E9pbUweicSThUFBXpATvlWlzEFp4kW4eibMjhZ91a9cKjTnloUd0Uu6M5VsVahCHo0bqyM9Y3GlrMFBfZ9Wth-KCj7U=s0"
+            },
+            "headerImage": {
+                "guid": "200015c7-fc84-4687-bf5a-561a03d8294c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 836,
+                "height": 201,
+                "url": "https://lh3.googleusercontent.com/uFvVsn2qkRIyT0Wxwz36c-eYZXZVCxtWKPBoXncbODBhsK_1qJGvN-EHHeuEkYuGTaBCnVUkQ_BUyWkodRbo_DC8jWM=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-41",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-41"
+            },
+            "id": "en-NG-2010-41",
+            "objectNumber": "NG-2010-41",
+            "title": "Javaanse hoffunctionarissen",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javaanse hoffunctionarissen, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "04a51da0-57f1-47f6-8f6b-80862ed400f6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 830,
+                "height": 2426,
+                "url": "https://lh3.googleusercontent.com/BVWIJD6Qt5cOtWyhfzbMr8jV_Ap9G2TBuJPoQxSyOqg39tv3KSKFGRi_T6pmlmJImdTjGHLiYmnIzgSOnmQuWl51zJY=s0"
+            },
+            "headerImage": {
+                "guid": "3328b8f9-2024-4565-bcc2-73c37606e85c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 830,
+                "height": 199,
+                "url": "https://lh3.googleusercontent.com/mU2wLZOJc7eq65zoz_BcaXUY12JJev39UmwYq97beXALPVLYaHUOLaRT-dAi6dJy6BO2h9XBgkFfjUQl6US4Yjt8tw=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3011",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3011"
+            },
+            "id": "en-SK-A-3011",
+            "objectNumber": "SK-A-3011",
+            "title": "Madonna of Humility",
+            "hasImage": true,
+            "principalOrFirstMaker": "Fra Angelico",
+            "longTitle": "Madonna of Humility, Fra Angelico, c. 1440",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "d5b7623e-0feb-4074-8a16-260a1ef79c7f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1768,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/nBs6tVR7xKfYtEUzBZ6q6ToQQscGDHRiZT2vw7-6RVVqpFrlb6aUebKiEgRwwtktSm3Fm0rePhMWb9I7wJj3ChJnwHY=s0"
+            },
+            "headerImage": {
+                "guid": "3871e82a-19d6-4ef4-95f4-6547fbcb7333",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1768,
+                "height": 424,
+                "url": "https://lh3.googleusercontent.com/OyaYK9aPTscc16DeC5vD5qPRVu92o7REGGEgmnSXQ_PqacC0cvVw098DXXCw9g-sNInjJwFWon756JBqATXAIQcQVig=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4981",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4981"
+            },
+            "id": "en-SK-A-4981",
+            "objectNumber": "SK-A-4981",
+            "title": "Adolf and Catharina Croeser, Known as ‘The Burgomaster of Delft and his Daughter’",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan Havicksz. Steen",
+            "longTitle": "Adolf and Catharina Croeser, Known as ‘The Burgomaster of Delft and his Daughter’, Jan Havicksz. Steen, 1655",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "1164387c-cbe0-4951-a18a-9bab917e4d6d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2096,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/fLsffYqD3Ex7F8C3l3C2mvQYQZJg7F9tYWn2XSwnDtvx0UMd3SDX_nN-Z--vdsMmg4p8NEwXiONStvmOV5ggcnagc3UM=s0"
+            },
+            "headerImage": {
+                "guid": "7acf8ede-54a6-49af-9d28-651d804da698",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/oO97P-hSmq8r2rOeGsjL1SToH4NVupjL065jWDVDz_cCs_pVJSDQZq2VsxpCjzGsqIArhivfF2sEA9BYQCwtco1LNQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-39",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-39"
+            },
+            "id": "en-NG-2010-39",
+            "objectNumber": "NG-2010-39",
+            "title": "Javanese Court Officials",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javanese Court Officials, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "1702132a-0cd7-42ab-bc79-93672ab102a0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 855,
+                "height": 2419,
+                "url": "https://lh3.googleusercontent.com/no1ShVtI10X9AkEjGYFZKbW_adMGuJ2yaaRBA01WMAxe_ZAT_LH7vEdDfW2dUE_aa5V7cw-yer3Ol8e21IFkRHLTE5U=s0"
+            },
+            "headerImage": {
+                "guid": "00d5bd03-8ead-4c33-8b1a-d06b3bf94fcb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 855,
+                "height": 205,
+                "url": "https://lh3.googleusercontent.com/73lom1S6wg7v0-2k88XzVUCFvxGQCd0TDRms4OyT5mW6v56wF9KYdrH4f_B8rOtVTDX1KDhG42hbreo7iGZ2GaCZiw=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-40",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-40"
+            },
+            "id": "en-NG-2010-40",
+            "objectNumber": "NG-2010-40",
+            "title": "Javanese Court Officials",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javanese Court Officials, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "49388e56-a203-4684-bca4-4caf0a0f22b1",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 826,
+                "height": 2433,
+                "url": "https://lh3.googleusercontent.com/VbIZ0F-lW54ZlHf6qLx-wroa79BlN3mZfy581QHrNXG5_iqyQGEI_CYsjg0IIzH_EHZcWpdCKw61s7fSwO-y4tAXnd4=s0"
+            },
+            "headerImage": {
+                "guid": "fa19b6cd-b737-40f6-bf6d-24cc2e2d3028",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 826,
+                "height": 198,
+                "url": "https://lh3.googleusercontent.com/dTs4VMwjFHKZajRQVS44v04WbCiPvQLzkYu53jGuylUUcUYvuvFffzvGurtJlisNM8QG-p5-WqUR5YZaX0nRB-ZDZn_f=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-38",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-38"
+            },
+            "id": "en-NG-2010-38",
+            "objectNumber": "NG-2010-38",
+            "title": "Javaanse hoffunctionarissen",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javaanse hoffunctionarissen, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "30dd903a-4b63-4642-9c36-b33420b27bfb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 818,
+                "height": 2430,
+                "url": "https://lh3.googleusercontent.com/LJf9SNzex16Ys5zXCeSKPNE2VQ_e07VycGOg2Jkqocyg9buNsXUpggljjnWSiUqVDxCstUKG1ZmYdSAA_hchAq1oQ-wq=s0"
+            },
+            "headerImage": {
+                "guid": "12681685-7407-438f-86c8-0160a565c919",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 818,
+                "height": 196,
+                "url": "https://lh3.googleusercontent.com/gUgn80W0H2xZRo_5bbKQrMgOYeEIWoHn7-S9xg1qrk6LBAmoTPW8ed1tZEzyRxeKriCgwqqBq7a2HNLJSxrFANPnGq0=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2854",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2854"
+            },
+            "id": "en-SK-A-2854",
+            "objectNumber": "SK-A-2854",
+            "title": "Portrait of Philip the Fair, Duke of Burgundy",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of Philip the Fair, Duke of Burgundy, anonymous, c. 1500",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "80ba4e73-542e-4191-9bd8-9706ba69bd0e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1627,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/a1xJKzrkfaLoMc8yTHImob5thE1FBw6VtyatZVyShd7GVgkYz2zyHmjtX6cPe6eM6n-RzmAaWw7ZJQmzh0pxqbN7K1k=s0"
+            },
+            "headerImage": {
+                "guid": "ebb5e39f-e12e-4166-8bea-75d417693f9a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1627,
+                "height": 390,
+                "url": "https://lh3.googleusercontent.com/yUoneB15_ni2cl0roOTb4fEhWWR7_tAgL4st-sH_lCEZ_KzBJ2Tzg8QJubhRZJh4O_jiemKL7Dyb2kCN_osp4E5lJJo=s0"
+            },
+            "productionPlaces": [
+                "Southern Netherlands",
+                "Antwerp"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1595",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1595"
+            },
+            "id": "en-SK-A-1595",
+            "objectNumber": "SK-A-1595",
+            "title": "The Love Letter",
+            "hasImage": true,
+            "principalOrFirstMaker": "Johannes Vermeer",
+            "longTitle": "The Love Letter, Johannes Vermeer, c. 1669 - c. 1670",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "61f71182-f194-4ecd-b61f-96b809098892",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2068,
+                "height": 2400,
+                "url": "https://lh3.googleusercontent.com/oYbIFLj5rMDJmCqpXKtSBnDlDpcnKDAkBDRqKxN_bhwFXlpcTmTkTz732X8nlRPal5iyBe9hUPGpJA4cfGRauRo1azM=s0"
+            },
+            "headerImage": {
+                "guid": "55da9ffd-92be-4638-8731-e2c752eed220",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/IQCckWDzG6KHNlXMI5hlz9vTG30i3lhTej4vbRMmRJUnZ3EpUQqiG2Kp0ow3Y1FjLh1H5hIaYRiQjSQpSHQyNch7_Dk=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1935",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1935"
+            },
+            "id": "en-SK-A-1935",
+            "objectNumber": "SK-A-1935",
+            "title": "Landscape with a Stone Bridge",
+            "hasImage": true,
+            "principalOrFirstMaker": "Rembrandt van Rijn",
+            "longTitle": "Landscape with a Stone Bridge, Rembrandt van Rijn, c. 1638",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "c6befa6f-89c5-4a3d-bce3-dee29e571fae",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2904,
+                "height": 2044,
+                "url": "https://lh3.googleusercontent.com/_s3YWiBaZ5MLItdnoqsnPCn3vbvfRCWORbObvp0lj5HBbjP_5dtOAYzWyh30fcwAYFC_1J7XF4rXnHNSxZFtFSpM-EY=s0"
+            },
+            "headerImage": {
+                "guid": "0cb82970-64d1-4e8c-825f-25aa7bb60d15",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2904,
+                "height": 696,
+                "url": "https://lh3.googleusercontent.com/GLFK1P3_PWO71mEaFIbsp1uCy2ZP1EH-OxXVpq-nmjEUDijGQB9e1SHpnSmEnl4OyjHbeO_NVFFprG4DlBKJ9Y8kx5c=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3147-B",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3147-B"
+            },
+            "id": "en-SK-A-3147-B",
+            "objectNumber": "SK-A-3147-B",
+            "title": "The Saint Elizabeth’s Day Flood",
+            "hasImage": true,
+            "principalOrFirstMaker": "Master of the St Elizabeth Panels",
+            "longTitle": "The Saint Elizabeth’s Day Flood, Master of the St Elizabeth Panels, c. 1490 - c. 1495",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "98b07bb5-4b23-4f42-9145-048f2551f3e7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2188,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/2Q3sLSVZ4t08cqx9rDT7cB821VdrHOWQrme_5GBK_Riie06FtwqPLemr1Txm3--wuyKgNhmOGFqlAbivkM2rvfMEvFY=s0"
+            },
+            "headerImage": {
+                "guid": "0954b5d7-48b1-4259-bb8d-13ca6016b65b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/IP5iyvrb2DQbsjjEbGnfZr5XLH_UbS8GgtWxDY0AsoxsswqDEs7hnROjrgFhqjEq5fykx_8ucLmHkIn5XU2nE3fiAvDj=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands",
+                "? Dordrecht"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/BK-1958-44",
+                "web": "http://www.rijksmuseum.nl/en/collection/BK-1958-44"
+            },
+            "id": "en-BK-1958-44",
+            "objectNumber": "BK-1958-44",
+            "title": "Nautilus cup",
+            "hasImage": true,
+            "principalOrFirstMaker": "Joachim Hiller",
+            "longTitle": "Nautilus cup, Joachim Hiller, c. 1600",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "3a4b3da8-49b1-4139-afbe-9f6a98a97042",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 4167,
+                "height": 6132,
+                "url": "https://lh3.googleusercontent.com/WVHHI8nzrrV-E1LYoAx0OSV9PIKgQj-ApOJV7vXPOjiuJEemF4f2fIQYndgx5DRwhA_dKmSUj3swLcm2KLGTMRUDE1Q=s0"
+            },
+            "headerImage": {
+                "guid": "f63b2437-5838-41a0-bac4-67c2723125a2",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/VpdPMJ01ckJPAzGE1HaJf4Bhx6_vF2_0n1QvrzNMw6cfXcWOMrS_dGUOafvzQIBsdCf3V0Ajxnb8zrjQVq6f6YLvaw=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4969",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4969"
+            },
+            "id": "en-SK-A-4969",
+            "objectNumber": "SK-A-4969",
+            "title": "Portrait of Jan Valckenburgh and an Enslaved Servant",
+            "hasImage": true,
+            "principalOrFirstMaker": "Daniel Vertangen",
+            "longTitle": "Portrait of Jan Valckenburgh and an Enslaved Servant, Daniel Vertangen, c. 1660",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "60460d2a-8ebe-40a7-984a-87a75d25b7a5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2014,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/i0lTAbnhEtGogIbN4ixwqdy9wsLyiMrbAAwViQtI5JBcD92_GkGit5639jbAtLn4p-6DkuHnJqLD--o2ARbDTfKKog=s0"
+            },
+            "headerImage": {
+                "guid": "83996a61-e036-4220-b222-036a0d2b8fd5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/sSzin1POn61YLje6sX_DuF8Fw1rAdvmmy8BZ78x18B5gGvkYLEEPfyuwIhkdH1p1hrMJmRBVLJ0ObYQy7RfYZ66LOPE=s0"
+            },
+            "productionPlaces": [
+                "Amsterdam"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4968",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4968"
+            },
+            "id": "en-SK-A-4968",
+            "objectNumber": "SK-A-4968",
+            "title": "The Coach of Mangkoe Nagoro IV",
+            "hasImage": true,
+            "principalOrFirstMaker": "Pieter Alardus Haaxman",
+            "longTitle": "The Coach of Mangkoe Nagoro IV, Pieter Alardus Haaxman, c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "408b2379-32d3-49ca-a423-bef515aaa532",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 1230,
+                "url": "https://lh5.ggpht.com/ujponTFObaRoDI_k28g6feVDbCLZW2aaUxYtDWcJtp0LH_XCtj95MgLybxKePoWllO5TZkS6yJKy9bi2MXPOmIN9WA=s0"
+            },
+            "headerImage": {
+                "guid": "287e8f49-f074-424c-8217-11274f6c086c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/cJjm82bOqN3hNq_gcIgD7ZCYC6FAaJOHUnmRnqzzibx4pHl6Yj2oyQEttF4oQvCgOweOveqYvj4X6lMDFZwbzkqrFQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3138",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3138"
+            },
+            "id": "en-SK-A-3138",
+            "objectNumber": "SK-A-3138",
+            "title": "Rembrandt’s Son Titus in a Monk’s Habit",
+            "hasImage": true,
+            "principalOrFirstMaker": "Rembrandt van Rijn",
+            "longTitle": "Rembrandt’s Son Titus in a Monk’s Habit, Rembrandt van Rijn, 1660",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "53d78378-c81a-4520-a878-438c029bf130",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2241,
+                "height": 2664,
+                "url": "https://lh3.googleusercontent.com/N9vZO35XvXWcJJLuOP7oFnH2a5SdkQSTqaSY_aXgO_ZRLpDJZW-uJLcMESuRahxxTmsh7mEpeOp5RgXvOr4jzkkRcFY=s0"
+            },
+            "headerImage": {
+                "guid": "97959d75-bf2b-4738-9046-9a29c010654d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/eMWhdH-OumI9TB8Pql3ftrqMjfjx4IdgG7z5mRv9EAdPxUeUZRhF7fN1Y3YjCF4cwp0Or0eIKJOzKfNJnFaQz5x2bhI=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-112",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-112"
+            },
+            "id": "en-SK-A-112",
+            "objectNumber": "SK-A-112",
+            "title": "Allegory on the Abdication of Emperor Charles v in Brussels",
+            "hasImage": true,
+            "principalOrFirstMaker": "Frans Francken (II)",
+            "longTitle": "Allegory on the Abdication of Emperor Charles v in Brussels, Frans Francken (II), c. 1635 - c. 1640",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "ccbcca47-3fa6-4158-bf14-1ee7a3d71291",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 7647,
+                "height": 6303,
+                "url": "https://lh3.googleusercontent.com/LXAOfVDza1EQVtmQ0RbcQig7qA5dbEi3B_5rCUhnvOuVTy_8HyCVoN7plbQ5V0MXjLhBLffk8uPSIN0us6Q77vKgPtnzXhn4lZwvzDPE=s0"
+            },
+            "headerImage": {
+                "guid": "5ee4cb6d-0a7f-49b2-b7ad-5971c8d214b2",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/aB0lP2r6nvfoQarPuKRnFfOsq6tFZnyqU10P0Fi3_hzj4VxZ-qdDsh7GQc6CsQYxfHonRk3xOfFPCsZgNkig4Rs23yTIXUYVVm8tZgCZ=s0"
+            },
+            "productionPlaces": [
+                "Antwerp"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-MAK-1188",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-MAK-1188"
+            },
+            "id": "en-AK-MAK-1188",
+            "objectNumber": "AK-MAK-1188",
+            "title": "The bodhisattva Maitreya",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "The bodhisattva Maitreya, anonymous, c. 200 - c. 300",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "de672721-748c-4b0f-b5d1-94302d34ea18",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1983,
+                "height": 3000,
+                "url": "https://lh5.ggpht.com/SIRRY2qV5PQr75N1OmtjGHLxQTi_RQbycMPig91ncapk2VOQjMMoTtdGqy9_OW-NwLpTgYlz4qjpqWHVSNkXie_W9cU=s0"
+            },
+            "headerImage": {
+                "guid": "c88f320d-7733-4272-b86e-f728c6f7d7b3",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/sHSRrHGFnM-GWElCg2Hl8NKc-u5Vyc7EfUZx2cTnfQQxBjiygj5gzFPF_GQnuGZO_HJeZ4Fuqs_ONix80UBgPss9GQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-NM-6520",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-NM-6520"
+            },
+            "id": "en-AK-NM-6520",
+            "objectNumber": "AK-NM-6520",
+            "title": "Nightlight in the form of a cat",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Nightlight in the form of a cat, anonymous, anonymous, c. 1760 - c. 1770",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "b7eba2ad-3a9f-45cf-8570-bef4ae650d62",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 1855,
+                "url": "https://lh3.googleusercontent.com/3Q00idmfXTG395NpgN18Fz0ZKusUR094A7C0e1J6w_vju7Shd7kg1lNrM-qvqCtL2nZR5fBu_xatB-FiXO4YE7Xu8Nzr=s0"
+            },
+            "headerImage": {
+                "guid": "81167cea-1606-4475-b145-0b3a41504b1f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/VRJD7a_BRgGThb966wwi8W6npQAJCVG8xoSLhiV6ZuQkhW4_TWNaYwHqMJXTnfwNhZ7otC2_2spoE0AMQvlbg2t9TXHt=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-NM-6620-D",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-NM-6620-D"
+            },
+            "id": "en-AK-NM-6620-D",
+            "objectNumber": "AK-NM-6620-D",
+            "title": "Plaque depicting an interior with figures",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Plaque depicting an interior with figures, anonymous, c. 1770 - c. 1775",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "2e143c77-336d-4ac0-b70e-facf11373658",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 3000,
+                "height": 2302,
+                "url": "https://lh5.ggpht.com/s3cCbBfGC_58DVt1_kLqje-zf-TAGc5GUzYydLp55g3NLn0jXQikyAJSOnYYDA_oq1a8FEwS4OwIDKIkIHf-6qHYgcE=s0"
+            },
+            "headerImage": {
+                "guid": "996e7844-f631-4c17-b4ec-834e8f552b7f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/qsbMnWVoYlfnw5A8Z8vkj1r1OIwkNtoXVZf-bNzL8WVhTNMlJRtb8lPma7wENQ6vehRZfrS_pIu_uRl4didpEjr6CFs=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4973",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4973"
+            },
+            "id": "en-SK-A-4973",
+            "objectNumber": "SK-A-4973",
+            "title": "Portrait of Magdalena de Cuyper",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jacob Jordaens (I)",
+            "longTitle": "Portrait of Magdalena de Cuyper, Jacob Jordaens (I), c. 1635 - c. 1636",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a1b7e549-d26b-4f56-b173-8560648791d9",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1932,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/iogmFpVbkXpzpVWBX_2QbeWYEF07geQl0jVH22MesIlYWuD1CQOvsOmcv0jvTRIsDNF4cB4FQIEg7evzFXw_O6eq9_Om=s0"
+            },
+            "headerImage": {
+                "guid": "f2a01a99-3d52-42da-89a8-44b899aba80c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/fO5EjmDNey-CsKcPZFvXg7nT8Po8-1ZubskJnOslke8gIKTk_Q1t5s5n6LBVrtClZ-dEFPndMw7noIU9bFU4FHYHySIb=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4971",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4971"
+            },
+            "id": "en-SK-A-4971",
+            "objectNumber": "SK-A-4971",
+            "title": "Portraits of Rogier Le Witer and his Wife, Catharina Behaghel",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jacob Jordaens (I)",
+            "longTitle": "Portraits of Rogier Le Witer and his Wife, Catharina Behaghel, Jacob Jordaens (I), 1635",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "f9952df9-11f4-4c9c-90bb-4edd3a77dda6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1931,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/-HtcegiHdrmVrteJMECQD2u3cll6Dw9yLzYwqWi9PUmrBcMHZkUKlW-Wmkt3kHQtq6ngisWANSOUP8rZk3X7VJl3j_I=s0"
+            },
+            "headerImage": {
+                "guid": "7a2f3ef0-1867-4d8c-92cd-e8e58cbad95a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/98jeZe7ojE6ugdNEPShzqJpjbeVN_8cEpzXtAIOgVw6HzybE9FwlGG8svRyawqvADI74bWFHpFvloQb9p9JtAVsgaQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4972",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4972"
+            },
+            "id": "en-SK-A-4972",
+            "objectNumber": "SK-A-4972",
+            "title": "Portraits of Rogier Le Witer and his Wife, Catharina Behaghel",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jacob Jordaens (I)",
+            "longTitle": "Portraits of Rogier Le Witer and his Wife, Catharina Behaghel, Jacob Jordaens (I), 1635",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "f88da297-1bd6-4fc9-b710-1d6b09c88320",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1919,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/4Y8v2uInvdKWCy6rE-hOHPhnFlExAu8rW7IWPJHz-F8tYmQL8imeGUFmV42rW6NdWoYtkWhd5Kg7qrEobNtiSMwBoOc=s0"
+            },
+            "headerImage": {
+                "guid": "cebf37e4-2ed9-428d-b381-d6ec577fd88d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1919,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/wRBseQziVG3bB8io7qnJqloDt8LASiY9LOme3hj-NiaRVKMaNemAAaQtWKWsu9WqrJnxJDdVdL5iReEc669f7ri37Q=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4908",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4908"
+            },
+            "id": "en-SK-A-4908",
+            "objectNumber": "SK-A-4908",
+            "title": "Memorial Portrait of Moses ter Borch",
+            "hasImage": true,
+            "principalOrFirstMaker": "Gerard ter Borch (II), Gesina ter Borch",
+            "longTitle": "Memorial Portrait of Moses ter Borch, Gerard ter Borch (II), Gesina ter Borch, 1667 - 1669",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "788674bf-c40f-4995-a00b-e91d95f39c3d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1953,
+                "height": 2634,
+                "url": "https://lh3.googleusercontent.com/A0wu9TDHIZlEnMyxoFn410lv2GWHcFMJvATad2_MyRvp1VTdq38WWrdIfJer460UNGYBVuzpsD2d-loqGnF_lGI94KQ=s0"
+            },
+            "headerImage": {
+                "guid": "e2c0881c-0c6f-4116-9dfd-5f0ed86e81e5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/wHc-u4lnsWYoU6un1k3JmcQiTaiM1K1jceY5_1__sv-m5Xs22gmwFbf-ffkmSlCIx8LSyKMfB3Wzmkm3ds4B66D4uPU=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-412",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-412"
+            },
+            "id": "en-NG-412",
+            "objectNumber": "NG-412",
+            "title": "Diorama of Government Square in Paramaribo",
+            "hasImage": true,
+            "principalOrFirstMaker": "Gerrit Schouten",
+            "longTitle": "Diorama of Government Square in Paramaribo, Gerrit Schouten, 1812",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "b6ed0d9f-6c11-4db6-a3a8-2de70086c0bf",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 3000,
+                "height": 1994,
+                "url": "https://lh6.ggpht.com/e8VfvhzzL5KDyDLhpJjZGZ_jXVNbxjgBG4I1GdKE9r5vt8qaPcXSfe3Oj7JbibQFbL3aH1V--qjeHhvWn78nAzsNGw=s0"
+            },
+            "headerImage": {
+                "guid": "43620707-f5ca-485b-a334-a4907a3f9bdf",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/4c8O2x0Ws3NRvO1ifV38ssoKxBTLyi8btjrX43kxNJC0AsgYyQst9lhSBl9hWWobC6_zWJpP1j3D5xQgzalbkq1VIyY=s0"
+            },
+            "productionPlaces": [
+                "Suriname"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-1977-175-W",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-1977-175-W"
+            },
+            "id": "en-NG-1977-175-W",
+            "objectNumber": "NG-1977-175-W",
+            "title": "Kendi from the V.O.C.-ship the 'Witte Leeuw'",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Kendi from the V.O.C.-ship the 'Witte Leeuw', anonymous, before 1613",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a42e03f8-906e-4df8-ae4b-a67d24cf5cde",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 2500,
+                "url": "https://lh3.ggpht.com/bXu3rgalvbLsOdNIrcidxxdTQdi55HZ0h_hgRZxL0nsSQc9tTdF2A2LZpwQpW4UcyLUeeHF1Luky_T8fAciw33Sck4Wd=s0"
+            },
+            "headerImage": {
+                "guid": "a57a7dd5-e7ee-4d71-8fec-e7fd8c083cc5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/9YAx51M4wPSIcRo0d4m72m3i_s8-qeRNap4w49aewn-WTS37KbY6BxcKzNCpfg1AyPHansABY9MdtEYbN91xaFy3SkDD=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3979",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3979"
+            },
+            "id": "en-SK-A-3979",
+            "objectNumber": "SK-A-3979",
+            "title": "Two Evangelists",
+            "hasImage": true,
+            "principalOrFirstMaker": "Gherardo Starnina",
+            "longTitle": "Two Evangelists, Gherardo Starnina, c. 1407",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "b272d6ee-2be4-4944-a139-d644c819d4bf",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1295,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/q5XxJ4kdOpTWe9xilwqd2OcV19LIkG7eyjFwhZy2JXxnHIzfAKU2mlrGq2gUvXom95HNSV_nSIaaFl6SDETJphHajPA=s0"
+            },
+            "headerImage": {
+                "guid": "81f4864a-0cf2-41f1-9f28-99206d479a49",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1295,
+                "height": 311,
+                "url": "https://lh3.googleusercontent.com/EXJeMhx36pYdLJX7Yxi2TiZSDNjTdSLp6iRYYcpHFURqwoYpsVLA5aZatD_Dv9dNS-6DnL8rbIL87rtmorFRp_RLxik=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-1977-174-W",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-1977-174-W"
+            },
+            "id": "en-NG-1977-174-W",
+            "objectNumber": "NG-1977-174-W",
+            "title": "Winepot from the V.O.C.-ship the 'Witte Leeuw'",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Winepot from the V.O.C.-ship the 'Witte Leeuw', anonymous, before 1613",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "903beb44-3fa2-4a12-be21-3b9c88c450b9",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/fKPdKujUKDoOaSau1UkPEuUYUMTelxcngjm1FY8P0oFPtGslUB3jxOEW8axZ8dbuM9eZ94VVHz3Fy7miEEjxFMyjtQ=s0"
+            },
+            "headerImage": {
+                "guid": "132fc5b0-5619-498b-8097-493193695cdb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh6.ggpht.com/rWgMCPcKXno0UWtfsN4AiIeYCdFvZUzg3lcZQIyeTdDtLO_BmQWJgSSbhVFrOxOrQKBj1td3XNhdAf3kEqgyAEsMgptt=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3140",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3140"
+            },
+            "id": "en-SK-A-3140",
+            "objectNumber": "SK-A-3140",
+            "title": "Portrait of Engelbert II, Count of Nassau",
+            "hasImage": true,
+            "principalOrFirstMaker": "Master of the Portraits of Princes",
+            "longTitle": "Portrait of Engelbert II, Count of Nassau, Master of the Portraits of Princes, c. 1480 - c. 1490",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "7a335189-d8ea-43fd-aae9-59af2058b496",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1780,
+                "height": 2500,
+                "url": "https://lh3.ggpht.com/mS3k6aP95jbZrrRtmylFzXQBEIn4HzMxqqc8aENtqgkqtoM8-j2NrMjtUL_8vHsHMiKRM84kxzN6zfVACSrrDKhQ3w=s0"
+            },
+            "headerImage": {
+                "guid": "f00778c0-c69e-42de-9aa9-25fa854df9bc",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1780,
+                "height": 427,
+                "url": "https://lh4.ggpht.com/6MKtpKj0eaX-b5aGE8eB2tIm0_X6UEqtWERKpdSO_o3--Yztbq1jM1c13ymAUuO4bJe8Wwk9oCbz1cCBIRpy7M7qdw=s0"
+            },
+            "productionPlaces": [
+                "Southern Netherlands",
+                "? Brussels"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3980",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3980"
+            },
+            "id": "en-SK-A-3980",
+            "objectNumber": "SK-A-3980",
+            "title": "Two Evangelists",
+            "hasImage": true,
+            "principalOrFirstMaker": "Gherardo Starnina",
+            "longTitle": "Two Evangelists, Gherardo Starnina, c. 1407",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "cdce02c9-05fd-4bcf-8f35-bc0b3003c7b7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1307,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/2bOyZ8rYEsj5mdcgr1mCJ1v_irDrCu9jkmUPf0hrH9SRmOk-RlSo6WxrNoJGrFKcpl3FmBpGZz4XmAdMRypLXLEBLdG6=s0"
+            },
+            "headerImage": {
+                "guid": "a8bb065b-ee0a-42b8-85ee-4e9d3e21593e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1307,
+                "height": 314,
+                "url": "https://lh3.googleusercontent.com/xPycMflNjBDHckw-bLZqJYwfQkxITTKiGWJHEPLmohUwe-fr-x2pU0xJSKiLrGAZoVja1eSDVDltjod3q_djOMH7EHE=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1603",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1603"
+            },
+            "id": "en-SK-A-1603",
+            "objectNumber": "SK-A-1603",
+            "title": "Ecce homo \n",
+            "hasImage": true,
+            "principalOrFirstMaker": "Brunswijkse Monogrammist",
+            "longTitle": "Ecce homo \n, Brunswijkse Monogrammist, c. 1525 - c. 1535",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "25843576-9031-4135-bb98-ca29e20d4496",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 1544,
+                "url": "https://lh3.googleusercontent.com/KL-I6ocFIFScngNfV-fz2wJqt-Oh61XZUuLRAZB2JOTyrFNQlI3XS2ujdIysvs1E5awjrg06N9tSglbHswhJRlUIw2C6=s0"
+            },
+            "headerImage": {
+                "guid": "6334c2a0-646b-46b7-ad10-2e35e5307bfa",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/wqe8cTVVwpf0xnJZDQLZbt78vbA5HLp2kEvGsVKiJvn_dlZHjk4t4eBdTlI-gY4b87lP25wmDq6fJWmlKqSYJ4A4UYI=s0"
+            },
+            "productionPlaces": [
+                "Southern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-RAK-1973-12",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-RAK-1973-12"
+            },
+            "id": "en-AK-RAK-1973-12",
+            "objectNumber": "AK-RAK-1973-12",
+            "title": "Plaque with a water landscape with a pavilion, trees, mountains and a waterfall",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Plaque with a water landscape with a pavilion, trees, mountains and a waterfall, anonymous, c. 1900",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "6415adff-fe0a-499f-a45e-fea8b916ddd9",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 630,
+                "height": 3000,
+                "url": "https://lh3.ggpht.com/pGhhK4bxxTyMvpT1ovgS_W7u4tMiSHDYDy-7qJcsfZNLzpntrt0orp1Ov2r4LhWF5lVOpJG6Cpx0HUl14-63tjA6IWs=s0"
+            },
+            "headerImage": {
+                "guid": "a8db9c3d-389e-4c49-b12c-19f4f447d141",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/K1aTLLsk8EkzG6zOgsZ12rAaNbeuInELVp1kfjiAmW5_BfgHTVBR3UXTqfmNiS5ohet6yVt4UhtfkZvRMpLy38A6KXM=s0"
+            },
+            "productionPlaces": [
+                "Japan"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-NM-6362",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-NM-6362"
+            },
+            "id": "en-AK-NM-6362",
+            "objectNumber": "AK-NM-6362",
+            "title": "Lidded Jar",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Lidded Jar, anonymous, c. 1700 - c. 1724",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "8cfae80d-dede-4414-85a5-037e45e04f28",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/12l5hqFqzKA3dO3qjiv1bwXt9dyplwnYi9a6LQ2aEAC4kFOG7FbaDff1zQWcWUDaUuU85nryUGfE6VfRodNki59vNP82=s0"
+            },
+            "headerImage": {
+                "guid": "4e568dae-e3ee-49a1-887f-12717d985347",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/pAT7JC-YdR-7jTleQ4R-BaR0L5RUspnGQgBVmpDtpwRoiPUFCaQ0MMi0EjWgPj3ngeKayGshigaN-PcsnwcVTlnDE8Y=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-NM-6775-A",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-NM-6775-A"
+            },
+            "id": "en-AK-NM-6775-A",
+            "objectNumber": "AK-NM-6775-A",
+            "title": "Lidded Jar",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Lidded Jar, anonymous, c. 1640 - c. 1645",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "ae3f96e2-7ff9-4aff-9f04-2fe7377a0e92",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1818,
+                "height": 2500,
+                "url": "https://lh6.ggpht.com/qtJlCK-AFHCiQX3uf2w0fU2BPc8nF664VIv2yy7X4wG5qEgsxdvbLDARqWHB-Nd7tL_WvHwNdnS8DLTUG20SC8dWSxE=s0"
+            },
+            "headerImage": {
+                "guid": "549da665-7a40-45c4-8c9c-85c90a340f58",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1919,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/3ZnW22zmA52IfbAU0NQVVCWoxDr_Q8poSWWH0F7naBhO5PpKCLpwA2GAY0Ut6Cg3hZ_FSllrTA1417cX7zrPhVktOIo0=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-MAK-551",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-MAK-551"
+            },
+            "id": "en-AK-MAK-551",
+            "objectNumber": "AK-MAK-551",
+            "title": "Two vases",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Two vases, anonymous, c. 1600 - c. 1699",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "9b01f964-3a8d-48e2-8594-ac43e7a16448",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/EcLVdBjBf6OcT7zQUZl4BV6nkUVVv8jkPkj3NGK5u8hgdwsMD2kBlYSY6uBzXHlor0OxH2mNoXPQ6zR_f9gJwQitJWMy=s0"
+            },
+            "headerImage": {
+                "guid": "bd351305-07df-4137-a724-c766931b6ba9",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/5qgyOSal0c-eDWoQPV8OaaEcn2Uv1R9lu79_0_f6WsPLCHOtZDb884J_uoHKOhCnf0a4oTn0mBjAqjxO33DaplvfKw=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-NM-6656-A",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-NM-6656-A"
+            },
+            "id": "en-AK-NM-6656-A",
+            "objectNumber": "AK-NM-6656-A",
+            "title": "Candlestick with a conical bulb stem and candleholder and base with a water landscape",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Candlestick with a conical bulb stem and candleholder and base with a water landscape, anonymous, c. 1775 - c. 1799",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "c9471a0f-649a-471e-a005-41544d2a4bf3",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1979,
+                "height": 3000,
+                "url": "https://lh3.googleusercontent.com/qtrCVrvOxbMXbKuv4-fK8NRFHDhs6h3dLFSeNuuQu3Olj7ExvMIuRU_kSB1xmbrF2wPNTKR6GcTLZgmauO6zzrokYXQ=s0"
+            },
+            "headerImage": {
+                "guid": "a2fe3387-09f7-49ad-8283-7648e826083f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/eDHU01B1xcajExVLlm44JyR5pSorOXkk1-cX0QnEzV_5r-DXWoxsmjXsl95n_18T9LlHmPMhYZaUVfOO-KjtFXZkmw2J=s0"
+            },
+            "productionPlaces": [
+                "Japan"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-MAK-599",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-MAK-599"
+            },
+            "id": "en-AK-MAK-599",
+            "objectNumber": "AK-MAK-599",
+            "title": "Octagonal Bowl with Dragon-shaped Handles",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Octagonal Bowl with Dragon-shaped Handles, anonymous, c. 1630 - c. 1645",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "0513b9a4-41b6-413c-839d-33626efdc4b0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 1945,
+                "url": "https://lh6.ggpht.com/9oQ_nw1OlQl_GaZ8r16abV7eXw9f7xO6KizirC2bJvBdBARFy5GYGWEs9JeWomB6aauoU_5UEVyeS6WjERBdQbuKc9U=s0"
+            },
+            "headerImage": {
+                "guid": "7aaec1dd-8b6c-4d79-97c5-de5e1d5fe8cf",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/IZaZvtplQqYzyyh9LUazOBP5PtmN-c4Rii7s2UZ7N7DzR4x-JyhH_Uzwbuh5g3beyQ_X2MG5kMsO5R0LtTGI3aPLDOk=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-RAK-1977-7",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-RAK-1977-7"
+            },
+            "id": "en-AK-RAK-1977-7",
+            "objectNumber": "AK-RAK-1977-7",
+            "title": "Set of Twelve Month Cups",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Set of Twelve Month Cups, anonymous, c. 1700 - c. 1724",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "4758c79a-fa7a-443f-9eb6-476233f4d380",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 3000,
+                "height": 3000,
+                "url": "https://lh6.ggpht.com/iK9Dbsp6Z7JjsQ2Eby4cgElRE0qLr6cjoa7zrW3opdziuCWVyQD0FJ_DoWYxumu70OBzqwdg7nD2AfGX-qZG3oKFJTU=s0"
+            },
+            "headerImage": {
+                "guid": "4b60b824-857d-49b9-a6fb-c94a921d1897",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/ahm_Vs2ozf2Ts2SUp5Kz5xkJTGyXC1G9A25QL_qPjvBbE0fKvEb23f72thOZNpoyiHQ1FzkKNTwtVqluFXujw8Gk8z8=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-RBK-14956",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-RBK-14956"
+            },
+            "id": "en-AK-RBK-14956",
+            "objectNumber": "AK-RBK-14956",
+            "title": "Bowl",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Bowl, anonymous, c. 1625 - c. 1649",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "1b337868-065d-4d40-9c3a-00eb985e5b1a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 2174,
+                "url": "https://lh3.ggpht.com/tbPU_96b8atzZ6HebFiOmYCP1o3gZSoKsICvQbU4c6kfqmD_0Ih1CimNknV4tXhfAht_iJLD7Zw4KRO3-Sx_SfOi8Sg=s0"
+            },
+            "headerImage": {
+                "guid": "3bad505a-762f-4b13-a70a-750181e97dec",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/5C9xrYn9N23nRiEv6LCj_VAaVpgpjIHeA2cGUbci475mzJJeXKTPbtc51-p9AKR2CjtSiUpmnOAtepN31Lg0QETs2vSc=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-RBK-1965-87",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-RBK-1965-87"
+            },
+            "id": "en-AK-RBK-1965-87",
+            "objectNumber": "AK-RBK-1965-87",
+            "title": "Bottle",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Bottle, anonymous, c. 1400 - c. 1424",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "3c2af107-196a-4f2a-93de-624911e004ec",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2384,
+                "height": 3000,
+                "url": "https://lh5.ggpht.com/0nD5vepXhQaW92zug4I00dmEan6D1BmXe3AYC5tpgN95VbpP8aD6EZSRX-LMkdiYEPFvs4WvIGv8x18BzkbhkTzePA=s0"
+            },
+            "headerImage": {
+                "guid": "f9955cfe-1603-496f-bff9-5b409b0fa0f6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/p4Vs7HwkXT2lj14hmq0KlV-OXp3Vj7U6QowjY3c9Ci2uE6q68mutspqR_iKF0NmMZmVFF04uPTlAkAsJxduymaTkzw=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-NM-6376",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-NM-6376"
+            },
+            "id": "en-AK-NM-6376",
+            "objectNumber": "AK-NM-6376",
+            "title": "Box",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Box, anonymous, c. 1645 - c. 1660",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "af8d7ef1-139b-4231-9711-1918c2d6bb66",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 1880,
+                "url": "https://lh5.ggpht.com/P8QiQcSQdWm4bsGi_ROGrsRLO-QC72xznwjmzyBm2ElXpQtjNJRYnWAoq5gselX0qGoef6zDFbT6COOG-IX2qSyXvaI=s0"
+            },
+            "headerImage": {
+                "guid": "ce97e71d-5dd6-4b7c-811d-2e964f311c41",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/LDkatB2EKhv5DzXEbZDxxa7g-Ij2skEGrpmkUbOj8uO9rz5IFXp_sqBAHryG1np9Kbt_kqheErVPW5bOkv5yA-ByRp1j=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/AK-RAK-1977-1",
+                "web": "http://www.rijksmuseum.nl/en/collection/AK-RAK-1977-1"
+            },
+            "id": "en-AK-RAK-1977-1",
+            "objectNumber": "AK-RAK-1977-1",
+            "title": "Set of Twelve Month Cups",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Set of Twelve Month Cups, anonymous, c. 1700 - c. 1724",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "91c29531-6713-42a9-b69c-f8fea464a0a7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 3000,
+                "height": 3000,
+                "url": "https://lh5.ggpht.com/uBZmjeBbfMClxJC2GRWA5d0iUw6FXXQZ0HhxKpl95-zJn_gckJsFNaJkixka-fFXpfz9-4WtA0Z4GieptClDHoFtQNg=s0"
+            },
+            "headerImage": {
+                "guid": "b2bad6e5-affa-4515-b41b-cf61b663cd92",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/gayEjGi6fEjDUDSXFMN7YA1UH3g2T9DeuIcl3a3BgGl0BNnrV95lv4A7iYdQURoksOEj1e-SZoZJB1UJW65zCN8qdRQc=s0"
+            },
+            "productionPlaces": [
+                "China"
+            ]
+        }
+    ],
+    "facets": [
+        {
+            "facets": [
+                {
+                    "key": "Special Collections",
+                    "value": 249
+                },
+                {
+                    "key": "17th Century",
+                    "value": 160
+                },
+                {
+                    "key": "19th Century",
+                    "value": 49
+                },
+                {
+                    "key": "Asian pavilion",
+                    "value": 39
+                },
+                {
+                    "key": "18th Century",
+                    "value": 37
+                },
+                {
+                    "key": "Middle Ages and Renaissance",
+                    "value": 16
+                },
+                {
+                    "key": "Gallery of Honour",
+                    "value": 10
+                },
+                {
+                    "key": "20sth Century",
+                    "value": 6
+                },
+                {
+                    "key": "Philips wing",
+                    "value": 2
+                }
+            ],
+            "name": "hnrCode.section.sort",
+            "otherTerms": 0,
+            "prettyName": 7
+        },
+        {
+            "facets": [
+                {
+                    "key": "anonymous",
+                    "value": 400
+                },
+                {
+                    "key": "Ansbach",
+                    "value": 34
+                },
+                {
+                    "key": "Höchst",
+                    "value": 12
+                },
+                {
+                    "key": "Porzellanmanufaktur Frankenthal",
+                    "value": 12
+                },
+                {
+                    "key": "Doornik",
+                    "value": 5
+                },
+                {
+                    "key": "Jacob Jordaens (I)",
+                    "value": 4
+                },
+                {
+                    "key": "Porzellanmanufaktur Nymphenburg",
+                    "value": 4
+                },
+                {
+                    "key": "Rembrandt van Rijn",
+                    "value": 4
+                },
+                {
+                    "key": "Chelsea",
+                    "value": 3
+                },
+                {
+                    "key": "Gerrit Schouten",
+                    "value": 3
+                },
+                {
+                    "key": "Jurriaan Andriessen",
+                    "value": 3
+                },
+                {
+                    "key": "Willem van de Velde (II)",
+                    "value": 3
+                },
+                {
+                    "key": "Anthony Oberman",
+                    "value": 2
+                },
+                {
+                    "key": "Armando",
+                    "value": 2
+                },
+                {
+                    "key": "Daniel Vertangen",
+                    "value": 2
+                },
+                {
+                    "key": "Ferdinand Bol",
+                    "value": 2
+                },
+                {
+                    "key": "Gherardo Starnina",
+                    "value": 2
+                },
+                {
+                    "key": "Jan Jansz Mostaert",
+                    "value": 2
+                },
+                {
+                    "key": "Jan Toorop",
+                    "value": 2
+                },
+                {
+                    "key": "Kaiserliche Porzellanmanufaktur",
+                    "value": 2
+                },
+                {
+                    "key": "Porseleinfabriek Den Haag",
+                    "value": 2
+                },
+                {
+                    "key": "Willem Beukers",
+                    "value": 2
+                },
+                {
+                    "key": "Willem Schellinks",
+                    "value": 2
+                },
+                {
+                    "key": "Abraham van Aardenberg",
+                    "value": 1
+                },
+                {
+                    "key": "Adriaan de Lelie",
+                    "value": 1
+                },
+                {
+                    "key": "Adriaen Coorte",
+                    "value": 1
+                },
+                {
+                    "key": "Adriaen Pietersz. van de Venne",
+                    "value": 1
+                },
+                {
+                    "key": "Arnold Boonen",
+                    "value": 1
+                },
+                {
+                    "key": "Balthasar Wigand",
+                    "value": 1
+                },
+                {
+                    "key": "Barnabé Sageret",
+                    "value": 1
+                },
+                {
+                    "key": "Bow",
+                    "value": 1
+                },
+                {
+                    "key": "Brunswijkse Monogrammist",
+                    "value": 1
+                },
+                {
+                    "key": "Caesar Boëtius van Everdingen",
+                    "value": 1
+                },
+                {
+                    "key": "Carel Willink",
+                    "value": 1
+                },
+                {
+                    "key": "Charles Kretzschmann",
+                    "value": 1
+                },
+                {
+                    "key": "Christoffel Bisschop",
+                    "value": 1
+                },
+                {
+                    "key": "Claude Lorrain",
+                    "value": 1
+                },
+                {
+                    "key": "Cornelis Lieste",
+                    "value": 1
+                },
+                {
+                    "key": "Cornelis Troost",
+                    "value": 1
+                },
+                {
+                    "key": "Cornelis van Poelenburch",
+                    "value": 1
+                },
+                {
+                    "key": "Dirck van Delen",
+                    "value": 1
+                },
+                {
+                    "key": "Erik Andriesse",
+                    "value": 1
+                },
+                {
+                    "key": "Fra Angelico",
+                    "value": 1
+                },
+                {
+                    "key": "Francesco Trevisani",
+                    "value": 1
+                },
+                {
+                    "key": "Frans Francken (II)",
+                    "value": 1
+                },
+                {
+                    "key": "Frederik Marinus Kruseman",
+                    "value": 1
+                },
+                {
+                    "key": "Gerard ter Borch (II)",
+                    "value": 1
+                },
+                {
+                    "key": "Gerard van Spaendonck",
+                    "value": 1
+                },
+                {
+                    "key": "Gerrit Berckheyde",
+                    "value": 1
+                },
+                {
+                    "key": "Gesina ter Borch",
+                    "value": 1
+                },
+                {
+                    "key": "Hendrick Avercamp",
+                    "value": 1
+                },
+                {
+                    "key": "Henry Ferguson",
+                    "value": 1
+                },
+                {
+                    "key": "Jac van Looij",
+                    "value": 1
+                },
+                {
+                    "key": "Jacob Vosmaer",
+                    "value": 1
+                },
+                {
+                    "key": "Jan Asselijn",
+                    "value": 1
+                },
+                {
+                    "key": "Jan Baptist Weenix",
+                    "value": 1
+                },
+                {
+                    "key": "Jan Cornelisz Vermeyen",
+                    "value": 1
+                },
+                {
+                    "key": "Jan Havicksz. Steen",
+                    "value": 1
+                },
+                {
+                    "key": "Jan Verkade",
+                    "value": 1
+                },
+                {
+                    "key": "Jean Baptiste Vanmour",
+                    "value": 1
+                },
+                {
+                    "key": "Jean-Etienne Liotard",
+                    "value": 1
+                },
+                {
+                    "key": "Joachim Hiller",
+                    "value": 1
+                },
+                {
+                    "key": "Johan Barthold Jongkind",
+                    "value": 1
+                },
+                {
+                    "key": "Johannes Vermeer",
+                    "value": 1
+                },
+                {
+                    "key": "Karel Appel",
+                    "value": 1
+                },
+                {
+                    "key": "Laura Theresa Alma Tadema (Lady)",
+                    "value": 1
+                },
+                {
+                    "key": "Master of Alkmaar",
+                    "value": 1
+                },
+                {
+                    "key": "Master of Rhenen",
+                    "value": 1
+                },
+                {
+                    "key": "Master of the Magdalen Legend",
+                    "value": 1
+                },
+                {
+                    "key": "Master of the Portraits of Princes",
+                    "value": 1
+                },
+                {
+                    "key": "Master of the St Elizabeth Panels",
+                    "value": 1
+                },
+                {
+                    "key": "Meindert Hobbema",
+                    "value": 1
+                },
+                {
+                    "key": "Meissener Porzellan Manufaktur",
+                    "value": 1
+                },
+                {
+                    "key": "Melchior d'Hondecoeter",
+                    "value": 1
+                },
+                {
+                    "key": "Michel-Martin Drolling",
+                    "value": 1
+                },
+                {
+                    "key": "Michiel van Musscher",
+                    "value": 1
+                },
+                {
+                    "key": "Nicolaas Baur",
+                    "value": 1
+                },
+                {
+                    "key": "Nicolaas Verkolje",
+                    "value": 1
+                },
+                {
+                    "key": "Nicolaes de Kemp",
+                    "value": 1
+                },
+                {
+                    "key": "Orazio Borgianni",
+                    "value": 1
+                },
+                {
+                    "key": "Paul Joseph Constantin Gabriël",
+                    "value": 1
+                },
+                {
+                    "key": "Paulus Potter",
+                    "value": 1
+                },
+                {
+                    "key": "Piet Mondriaan",
+                    "value": 1
+                },
+                {
+                    "key": "Pieter Alardus Haaxman",
+                    "value": 1
+                },
+                {
+                    "key": "Porseleinfabriek Ludwigsburg",
+                    "value": 1
+                },
+                {
+                    "key": "Salomon van Ruysdael",
+                    "value": 1
+                },
+                {
+                    "key": "Suzanne Perlman",
+                    "value": 1
+                },
+                {
+                    "key": "fabriek Leperre-Durot",
+                    "value": 1
+                }
+            ],
+            "name": "principalMaker",
+            "otherTerms": 577,
+            "prettyName": 10
+        },
+        {
+            "facets": [
+                {
+                    "key": "painting",
+                    "value": 94
+                },
+                {
+                    "key": "vase",
+                    "value": 69
+                },
+                {
+                    "key": "bowl",
+                    "value": 46
+                },
+                {
+                    "key": "plate (dishes)",
+                    "value": 44
+                },
+                {
+                    "key": "service (set)",
+                    "value": 34
+                },
+                {
+                    "key": "box",
+                    "value": 23
+                },
+                {
+                    "key": "dish",
+                    "value": 17
+                },
+                {
+                    "key": "figure",
+                    "value": 16
+                },
+                {
+                    "key": "tea service",
+                    "value": 16
+                },
+                {
+                    "key": "tile",
+                    "value": 14
+                },
+                {
+                    "key": "pot",
+                    "value": 13
+                },
+                {
+                    "key": "cup",
+                    "value": 8
+                },
+                {
+                    "key": "lid",
+                    "value": 6
+                },
+                {
+                    "key": "tureen",
+                    "value": 6
+                },
+                {
+                    "key": "musical instrument",
+                    "value": 5
+                },
+                {
+                    "key": "tomb figure",
+                    "value": 5
+                },
+                {
+                    "key": "candlestick",
+                    "value": 4
+                },
+                {
+                    "key": "flute",
+                    "value": 3
+                },
+                {
+                    "key": "hanging",
+                    "value": 3
+                },
+                {
+                    "key": "pike",
+                    "value": 3
+                },
+                {
+                    "key": "recorder",
+                    "value": 3
+                },
+                {
+                    "key": "alto recorder",
+                    "value": 2
+                },
+                {
+                    "key": "wind instrument",
+                    "value": 2
+                },
+                {
+                    "key": "album",
+                    "value": 1
+                },
+                {
+                    "key": "buccin",
+                    "value": 1
+                },
+                {
+                    "key": "coffee service",
+                    "value": 1
+                },
+                {
+                    "key": "descant recorder",
+                    "value": 1
+                },
+                {
+                    "key": "fragment",
+                    "value": 1
+                },
+                {
+                    "key": "knife (tool)",
+                    "value": 1
+                },
+                {
+                    "key": "manuscript",
+                    "value": 1
+                },
+                {
+                    "key": "medal",
+                    "value": 1
+                },
+                {
+                    "key": "musketoon",
+                    "value": 1
+                },
+                {
+                    "key": "porcelain",
+                    "value": 1
+                },
+                {
+                    "key": "serpent",
+                    "value": 1
+                },
+                {
+                    "key": "table",
+                    "value": 1
+                },
+                {
+                    "key": "trombone",
+                    "value": 1
+                },
+                {
+                    "key": "two-handed sword",
+                    "value": 1
+                }
+            ],
+            "name": "type",
+            "otherTerms": 0,
+            "prettyName": 3
+        },
+        {
+            "facets": [
+                {
+                    "key": "17",
+                    "value": 296
+                },
+                {
+                    "key": "18",
+                    "value": 130
+                },
+                {
+                    "key": "19",
+                    "value": 52
+                },
+                {
+                    "key": "16",
+                    "value": 32
+                },
+                {
+                    "key": "13",
+                    "value": 15
+                },
+                {
+                    "key": "15",
+                    "value": 10
+                },
+                {
+                    "key": "20",
+                    "value": 9
+                },
+                {
+                    "key": "12",
+                    "value": 8
+                },
+                {
+                    "key": "9",
+                    "value": 6
+                },
+                {
+                    "key": "7",
+                    "value": 3
+                },
+                {
+                    "key": "11",
+                    "value": 2
+                },
+                {
+                    "key": "14",
+                    "value": 2
+                },
+                {
+                    "key": "2",
+                    "value": 1
+                },
+                {
+                    "key": "4",
+                    "value": 1
+                },
+                {
+                    "key": "6",
+                    "value": 1
+                }
+            ],
+            "name": "dating.period",
+            "otherTerms": 0,
+            "prettyName": 4
+        },
+        {
+            "facets": [
+                {
+                    "key": "China",
+                    "value": 235
+                },
+                {
+                    "key": "Japan",
+                    "value": 61
+                },
+                {
+                    "key": "The Hague",
+                    "value": 41
+                },
+                {
+                    "key": "Germany",
+                    "value": 34
+                },
+                {
+                    "key": "Paris",
+                    "value": 23
+                },
+                {
+                    "key": "Amsterdam",
+                    "value": 22
+                },
+                {
+                    "key": "Low Countries",
+                    "value": 18
+                },
+                {
+                    "key": "Netherlands",
+                    "value": 13
+                },
+                {
+                    "key": "Delft",
+                    "value": 6
+                },
+                {
+                    "key": "? Java",
+                    "value": 5
+                },
+                {
+                    "key": "Northern Netherlands",
+                    "value": 5
+                },
+                {
+                    "key": "Haarlem",
+                    "value": 3
+                },
+                {
+                    "key": "Java",
+                    "value": 3
+                },
+                {
+                    "key": "Southern Netherlands",
+                    "value": 3
+                },
+                {
+                    "key": "Antwerp",
+                    "value": 2
+                },
+                {
+                    "key": "Brussels",
+                    "value": 2
+                },
+                {
+                    "key": "Europe",
+                    "value": 2
+                },
+                {
+                    "key": "France",
+                    "value": 2
+                },
+                {
+                    "key": "Suriname",
+                    "value": 2
+                },
+                {
+                    "key": "Vienna",
+                    "value": 2
+                },
+                {
+                    "key": "? Antwerp",
+                    "value": 1
+                },
+                {
+                    "key": "? Bruges",
+                    "value": 1
+                },
+                {
+                    "key": "? Brussels",
+                    "value": 1
+                },
+                {
+                    "key": "? Dordrecht",
+                    "value": 1
+                },
+                {
+                    "key": "? France",
+                    "value": 1
+                },
+                {
+                    "key": "? Mechelen",
+                    "value": 1
+                },
+                {
+                    "key": "? Netherlands",
+                    "value": 1
+                },
+                {
+                    "key": "? Utrecht",
+                    "value": 1
+                },
+                {
+                    "key": "Austria",
+                    "value": 1
+                },
+                {
+                    "key": "Harlingen",
+                    "value": 1
+                },
+                {
+                    "key": "London",
+                    "value": 1
+                },
+                {
+                    "key": "Mechelen",
+                    "value": 1
+                },
+                {
+                    "key": "Rome",
+                    "value": 1
+                },
+                {
+                    "key": "Sri Lanka",
+                    "value": 1
+                },
+                {
+                    "key": "Utrecht",
+                    "value": 1
+                }
+            ],
+            "name": "place",
+            "otherTerms": 0,
+            "prettyName": 2
+        },
+        {
+            "facets": [
+                {
+                    "key": "glaze",
+                    "value": 421
+                },
+                {
+                    "key": "porcelain",
+                    "value": 384
+                },
+                {
+                    "key": "cobalt (mineral)",
+                    "value": 232
+                },
+                {
+                    "key": "gold (metal)",
+                    "value": 156
+                },
+                {
+                    "key": "oil paint (paint)",
+                    "value": 97
+                },
+                {
+                    "key": "canvas",
+                    "value": 52
+                },
+                {
+                    "key": "earthenware",
+                    "value": 50
+                },
+                {
+                    "key": "wood (plant material)",
+                    "value": 28
+                },
+                {
+                    "key": "panel",
+                    "value": 23
+                },
+                {
+                    "key": "luster (textile)",
+                    "value": 16
+                },
+                {
+                    "key": "paper",
+                    "value": 15
+                },
+                {
+                    "key": "copper (metal)",
+                    "value": 11
+                },
+                {
+                    "key": "soft-paste porcelain",
+                    "value": 11
+                },
+                {
+                    "key": "glass",
+                    "value": 10
+                },
+                {
+                    "key": "paint (coating)",
+                    "value": 9
+                },
+                {
+                    "key": "gilding (material)",
+                    "value": 8
+                },
+                {
+                    "key": "iron (metal)",
+                    "value": 7
+                },
+                {
+                    "key": "bone china (material)",
+                    "value": 5
+                },
+                {
+                    "key": "cotton (textile)",
+                    "value": 5
+                },
+                {
+                    "key": "oak (wood)",
+                    "value": 5
+                },
+                {
+                    "key": "dye",
+                    "value": 4
+                },
+                {
+                    "key": "gouache (paint)",
+                    "value": 4
+                },
+                {
+                    "key": "lacquer (coating)",
+                    "value": 4
+                },
+                {
+                    "key": "linen (material)",
+                    "value": 4
+                },
+                {
+                    "key": "metal",
+                    "value": 4
+                },
+                {
+                    "key": "tin glaze",
+                    "value": 4
+                },
+                {
+                    "key": "brass (alloy)",
+                    "value": 3
+                },
+                {
+                    "key": "bronze (metal)",
+                    "value": 3
+                },
+                {
+                    "key": "leather",
+                    "value": 3
+                },
+                {
+                    "key": "maple (wood)",
+                    "value": 3
+                },
+                {
+                    "key": "cardboard",
+                    "value": 2
+                },
+                {
+                    "key": "glue",
+                    "value": 2
+                },
+                {
+                    "key": "ivory",
+                    "value": 2
+                },
+                {
+                    "key": "lead glaze",
+                    "value": 2
+                },
+                {
+                    "key": "silk",
+                    "value": 2
+                },
+                {
+                    "key": "silver (metal)",
+                    "value": 2
+                },
+                {
+                    "key": "stoneware",
+                    "value": 2
+                },
+                {
+                    "key": "tempera",
+                    "value": 2
+                },
+                {
+                    "key": "acrylic paint",
+                    "value": 1
+                },
+                {
+                    "key": "amethyst (mineral)",
+                    "value": 1
+                },
+                {
+                    "key": "beech (wood)",
+                    "value": 1
+                },
+                {
+                    "key": "enamel paint",
+                    "value": 1
+                },
+                {
+                    "key": "gold leaf",
+                    "value": 1
+                },
+                {
+                    "key": "gypsum",
+                    "value": 1
+                },
+                {
+                    "key": "ink",
+                    "value": 1
+                },
+                {
+                    "key": "mahogany (wood)",
+                    "value": 1
+                },
+                {
+                    "key": "mother of pearl",
+                    "value": 1
+                },
+                {
+                    "key": "nautilus shell",
+                    "value": 1
+                },
+                {
+                    "key": "papier mâché",
+                    "value": 1
+                },
+                {
+                    "key": "parchment (animal material)",
+                    "value": 1
+                },
+                {
+                    "key": "pigskin",
+                    "value": 1
+                },
+                {
+                    "key": "rope",
+                    "value": 1
+                },
+                {
+                    "key": "slate (rock)",
+                    "value": 1
+                },
+                {
+                    "key": "textile materials",
+                    "value": 1
+                },
+                {
+                    "key": "tin (metal)",
+                    "value": 1
+                },
+                {
+                    "key": "velvet (fabric weave)",
+                    "value": 1
+                },
+                {
+                    "key": "wood board",
+                    "value": 1
+                },
+                {
+                    "key": "wool",
+                    "value": 1
+                }
+            ],
+            "name": "material",
+            "otherTerms": 0,
+            "prettyName": 5
+        },
+        {
+            "facets": [
+                {
+                    "key": "painting",
+                    "value": 568
+                },
+                {
+                    "key": "vitrification",
+                    "value": 396
+                },
+                {
+                    "key": "gilding",
+                    "value": 163
+                },
+                {
+                    "key": "cutting",
+                    "value": 7
+                },
+                {
+                    "key": "forging",
+                    "value": 6
+                },
+                {
+                    "key": "casting",
+                    "value": 4
+                },
+                {
+                    "key": "sawing",
+                    "value": 3
+                },
+                {
+                    "key": "braiding",
+                    "value": 2
+                },
+                {
+                    "key": "brush",
+                    "value": 2
+                },
+                {
+                    "key": "engraving",
+                    "value": 2
+                },
+                {
+                    "key": "lacquering",
+                    "value": 2
+                },
+                {
+                    "key": "soldering",
+                    "value": 2
+                },
+                {
+                    "key": "bending",
+                    "value": 1
+                },
+                {
+                    "key": "grinding",
+                    "value": 1
+                },
+                {
+                    "key": "striking (metalworking)",
+                    "value": 1
+                },
+                {
+                    "key": "writing (processes)",
+                    "value": 1
+                }
+            ],
+            "name": "technique",
+            "otherTerms": 0,
+            "prettyName": 8
+        },
+        {
+            "facets": [
+                {
+                    "key": " #737C84",
+                    "value": 203
+                },
+                {
+                    "key": " #000000",
+                    "value": 118
+                },
+                {
+                    "key": " #F6ECF3",
+                    "value": 112
+                },
+                {
+                    "key": "#B5BFCC",
+                    "value": 104
+                },
+                {
+                    "key": " #B35A1F",
+                    "value": 99
+                },
+                {
+                    "key": " #E0CC91",
+                    "value": 75
+                },
+                {
+                    "key": " #FBF6E1",
+                    "value": 75
+                },
+                {
+                    "key": " #2F4F4F",
+                    "value": 57
+                },
+                {
+                    "key": " #B5BFCC",
+                    "value": 53
+                },
+                {
+                    "key": "#FBF6E1",
+                    "value": 46
+                },
+                {
+                    "key": " #4019B1",
+                    "value": 39
+                },
+                {
+                    "key": "#E0CC91",
+                    "value": 33
+                },
+                {
+                    "key": " #981313",
+                    "value": 31
+                },
+                {
+                    "key": " #F49B7A",
+                    "value": 28
+                },
+                {
+                    "key": " #4279DB",
+                    "value": 26
+                },
+                {
+                    "key": "#F6ECF3",
+                    "value": 26
+                },
+                {
+                    "key": "#737C84",
+                    "value": 25
+                },
+                {
+                    "key": " #DDA5AA",
+                    "value": 22
+                },
+                {
+                    "key": "#000000",
+                    "value": 12
+                },
+                {
+                    "key": " #8268DC",
+                    "value": 11
+                },
+                {
+                    "key": " #367614",
+                    "value": 10
+                },
+                {
+                    "key": " #850085",
+                    "value": 10
+                },
+                {
+                    "key": "#2F4F4F",
+                    "value": 7
+                },
+                {
+                    "key": " #DF4C93",
+                    "value": 4
+                },
+                {
+                    "key": " #E09714",
+                    "value": 4
+                },
+                {
+                    "key": "#B35A1F",
+                    "value": 4
+                },
+                {
+                    "key": " #62AD77",
+                    "value": 3
+                },
+                {
+                    "key": "#DDA5AA",
+                    "value": 3
+                },
+                {
+                    "key": "#F49B7A",
+                    "value": 2
+                },
+                {
+                    "key": " #FFEB00",
+                    "value": 1
+                },
+                {
+                    "key": "#4019B1",
+                    "value": 1
+                },
+                {
+                    "key": "#62AD77",
+                    "value": 1
+                }
+            ],
+            "name": "normalized32Colors.hex",
+            "otherTerms": 1246,
+            "prettyName": 9
+        }
+    ]
+}
