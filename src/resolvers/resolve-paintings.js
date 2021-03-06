@@ -19,7 +19,7 @@ const processData = pipe([
  * @returns {Promise<object[], Error>}
  */
 export const resolvePaintings = async ({ page, qty, onDisplay } = {}) => {
-    const apiKey = process?.env?.API_KEY || 'hb24HuF8';
+    const apiKey = process.env.API_KEY;
     const endpoint = getEndpoint({ apiKey, page, qty, onDisplay });
 
     const response = await fetch(endpoint);

@@ -1,8 +1,8 @@
 import React, { PureComponent } from 'react';
 import * as PropTypes from 'prop-types';
 import { render } from 'react-dom';
+import noop from 'lodash/fp/noop';
 import { Gallery } from './components/gallery/gallery';
-import { noop } from './helpers';
 import { resolvePaintings } from './resolvers/resolve-paintings';
 
 // Simple error

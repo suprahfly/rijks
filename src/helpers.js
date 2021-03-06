@@ -1,10 +1,4 @@
 /**
- * No-operation stub
- * @returns {void}
- */
-export const noop = () => {};
-
-/**
  * Returns Rijksmuseum API URL based on passed params
  * @param {string} apiKey Rijksmuseum API key
  * @param {number} [page] number of page that need to be fetched

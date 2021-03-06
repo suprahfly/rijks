@@ -7,6 +7,7 @@ afterEach(() => {
     fetchMock.reset();
 });
 
+// Cut down the mock art objects to 3 for concise expectation blocks
 const responseSuccessMock = update(
     ['artObjects'],
     slice(0, 3),
@@ -22,7 +23,7 @@ describe('Resolvers', () => {
         it('should resolve painting from API with default parameters', async () => {
             await resolvePaintings();
             const expected =
-                'https://www.rijksmuseum.nl/api/en/collection?technique=painting&imgonly=true&ondisplay=true&ps=30&p=1&key=hb24HuF8';
+                'https://www.rijksmuseum.nl/api/en/collection?technique=painting&imgonly=true&ondisplay=true&ps=30&p=1&key=apikey12';
             expect(fetchMock).toHaveFetched(expected);
         });
 
@@ -30,7 +31,7 @@ describe('Resolvers', () => {
             await resolvePaintings({ page: 3, qty: 20, onDisplay: false });
 
             expect(fetchMock).toHaveFetched(
-                'https://www.rijksmuseum.nl/api/en/collection?technique=painting&imgonly=true&ondisplay=false&ps=20&p=3&key=hb24HuF8'
+                'https://www.rijksmuseum.nl/api/en/collection?technique=painting&imgonly=true&ondisplay=false&ps=20&p=3&key=apikey12'
             );
         });
 
