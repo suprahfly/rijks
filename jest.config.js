@@ -24,4 +24,6 @@ module.exports = {
             '<rootDir>/src/__mocks__/file-mock.js',
         '\\.(css)$': 'identity-obj-proxy',
     },
+
+    setupFiles: ['<rootDir>/etc/setup-tests.js'],
 };
