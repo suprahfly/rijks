@@ -19,6 +19,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.13.8",
     "@babel/eslint-parser": "^7.13.8",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/preset-env": "^7.13.9",
@@ -48,6 +49,7 @@
     "postcss-modules": "^4.0.0",
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.2.1",
+    "prop-types": "^15.7.2",
     "react-test-renderer": "^17.0.1",
     "xo": "^0.38.2"
   },
