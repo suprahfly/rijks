@@ -28,5 +28,7 @@ export const resolvePaintings = async ({ page, qty, onDisplay } = {}) => {
         throw new Error('Failed to fetch');
     }
 
-    return response.json().then(processData);
+    const data = await response.json();
+
+    return processData(data);
 };

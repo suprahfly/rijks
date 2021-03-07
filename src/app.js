@@ -34,17 +34,18 @@ export class App extends PureComponent {
         list: [],
     };
 
-    componentDidMount() {
-        this.props
-            .onLoad()
-            .then((list) => {
-                this.setState(({ page }) => ({
-                    list,
-                    isLoading: false,
-                    page: page + 1,
-                }));
-            })
-            .catch(() => this.setState({ hasError: true }));
+    async componentDidMount() {
+        try {
+            const list = await this.props.onLoad();
+
+            this.setState(({ page }) => ({
+                list,
+                isLoading: false,
+                page: page + 1,
+            }));
+        } catch {
+            this.setState({ hasError: true });
+        }
     }
 
     componentDidCatch() {
@@ -77,7 +78,7 @@ export class App extends PureComponent {
 
         this.setState(({ page, list }) => ({
             page: page + 1,
-            list: list.concat(addition),
+            list: [...list, ...addition],
             isLoading: false,
         }));
     };

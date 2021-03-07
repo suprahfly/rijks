@@ -9,21 +9,15 @@
     "prettier": true,
     "rules": {
         "node/file-extension-in-import": [
-            "error",
-            "always",
-            {
-                ".js": "never",
-                ".jsx": "never",
-                ".json": "always"
-            }
+            "off"
         ],
         "import/extensions": [
             "error",
             "never",
             {
-                "json": "always",
+                "jpg": "always",
                 "css": "always",
-                "jpg": "always"
+                "json": "always"
             }
         ]
     },

@@ -1,0 +1,26 @@
+# This workflow will do a clean install of node dependencies,
+# build the source code and deploy it to the github pages repo
+
+name: Deploy
+
+on: 
+  push:
+    branches:
+      - "main"
+
+jobs:
+  deploy: 
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build
+        run: yarn build
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./dist
+          publish_branch: main
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: suprahlfy/suprahfly.github.io
