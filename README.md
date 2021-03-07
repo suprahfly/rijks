@@ -1,5 +1,7 @@
 ### Explore Rijksmuseum
 
+[![Deploy](https://github.com/suprahfly/rijks/actions/workflows/gh-pages.yml/badge.svg?branch=main)](https://github.com/suprahfly/rijks/actions/workflows/gh-pages.yml)
+
 This is a simple proof of concept app that pulls the data from Rijksmuseum API and then display it as tiles of 1, 2 or 4 pieces.
 Right now it depends only on `react`, `react-dom` and `lodash` (mainly for my obsession with fp notation but it is not a necessity).
 
