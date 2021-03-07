@@ -42,11 +42,13 @@ jobs:
       - name: Build
         run: yarn build
         env:
+          ENV: production
           API_KEY: ${{ secrets.API_KEY }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
+          publish_branch: main
           publish_dir: ./dist
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: suprahfly/suprahfly.github.io
