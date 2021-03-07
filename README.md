@@ -23,6 +23,7 @@ What I have done up to that point
 - [x] Wrote a simple resolver to fetch data from API
 - [x] Made a basic pagination
 - [x] Fix current UI test
+- [x] Add simple CI/CD flow with Github Actions
 
 What needs to be done next
 - [ ] Add an infinite scrolling feature with lazy-loading
