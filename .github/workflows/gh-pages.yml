@@ -42,7 +42,6 @@ jobs:
       - name: Build
         run: yarn build
         env:
-          ENV: production
           API_KEY: ${{ secrets.API_KEY }}
 
       - name: Deploy
