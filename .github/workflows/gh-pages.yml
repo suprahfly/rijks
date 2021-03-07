@@ -48,4 +48,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: main
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: suprahlfy/suprahfly.github.io
+          external_repository: suprahfly/suprahfly.github.io
