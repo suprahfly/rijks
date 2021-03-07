@@ -9,12 +9,12 @@
     "url": "https://github.com/suprahfly/rijks.git"
   },
   "scripts": {
-    "prepare": "husky install",
     "test": "jest",
     "test:watch": "jest --watch",
     "lint": "xo",
     "build": "parcel build ./src/index.html",
-    "start": "parcel serve ./src/index.html"
+    "start": "parcel serve ./src/index.html",
+    "prepare": "husky install"
   },
   "targets": {
     "app": {
