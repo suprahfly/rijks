@@ -4,6 +4,7 @@ import { render } from 'react-dom';
 import noop from 'lodash/fp/noop';
 import { Gallery } from './components/gallery/gallery';
 import { resolvePaintings } from './resolvers/resolve-paintings';
+import './styles.css';
 
 // Simple error
 const Error = () => {
@@ -58,20 +59,22 @@ export class App extends PureComponent {
 
         return (
             <main>
+                <h1>Enjoy Rijksmuseum masterpieces!</h1>
+
                 {hasError ? (
                     <Error />
                 ) : (
                     <Gallery
                         list={list}
                         isLoading={this.state.isLoading}
-                        onClick={this.handleLoadMoreClick}
+                        onLoadMore={this.handleLoadMore}
                     />
                 )}
             </main>
         );
     }
 
-    handleLoadMoreClick = async () => {
+    handleLoadMore = async () => {
         this.setState({ isLoading: true });
 
         const addition = await this.props.onLoad({ page: this.state.page });

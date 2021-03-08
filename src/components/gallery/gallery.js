@@ -1,42 +1,43 @@
 import React from 'react';
 import * as PropTypes from 'prop-types';
-import { noop } from '../../helpers';
+import { Masonry, useInfiniteLoader } from 'masonic';
 import { Painting } from '../painting/painting';
+import throttle from 'lodash/fp/throttle';
 
-import styles from './styles.css';
+const THROTTLE_TIMEOUT = 500;
 
-/**
- * Gallery for displaying images
- */
-export const Gallery = ({ list, onClick = noop }) => {
+export const Gallery = ({ totalItems, list = [], onLoadMore }) => {
+    const LOADER_OPTIONS = {
+        threshold: 6,
+        minimumBatchSize: 30,
+        totalItems,
+        isItemLoaded: (index, items) => {
+            return Boolean(items[index]);
+        },
+    };
+
+    // Infinity loader handler
+    const loadMore = useInfiniteLoader(
+        throttle(THROTTLE_TIMEOUT, onLoadMore),
+        LOADER_OPTIONS
+    );
+
     return (
-        <section className={styles.root}>
-            {list?.map(({ objectNumber, longTitle, webImage }) => {
-                if (!webImage?.url) {
-                    return null;
-                }
-
-                const { url, width, height } = webImage;
-
-                return (
-                    <Painting
-                        key={objectNumber}
-                        width={width}
-                        height={height}
-                        src={url}
-                        title={longTitle}
-                    />
-                );
-            })}
-
-            <button type="button" onClick={onClick}>
-                Load more pieces
-            </button>
-        </section>
+        <div>
+            <Masonry
+                items={list}
+                render={Painting}
+                columnGutter={16}
+                columnWidth={300}
+                overscanBy={5}
+                onRender={loadMore}
+            />
+        </div>
     );
 };
 
 Gallery.propTypes = {
+    totalItems: PropTypes.number,
     list: PropTypes.arrayOf(
         PropTypes.shape({
             objectNumber: PropTypes.string.isRequired,
@@ -44,5 +45,5 @@ Gallery.propTypes = {
             webImage: PropTypes.object.isRequired,
         })
     ),
-    onClick: PropTypes.func,
+    onLoadMore: PropTypes.func,
 };

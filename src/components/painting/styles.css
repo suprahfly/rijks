@@ -1,19 +1,6 @@
 .root {
     margin: 0;
-    padding: 12px;
-    flex: 0 0 100%;
+    padding: 0;
     box-sizing: border-box;
-    height: auto;
-}
-
-@media screen and (min-width: 768px) {
-    .root {
-        flex-basis: 50%;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .root {
-        flex-basis: 25%;
-    }
+    width: 100%;
 }

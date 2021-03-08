@@ -26,11 +26,11 @@ What I have done up to that point
 - [x] Made a basic pagination
 - [x] Fix current UI test
 - [x] Add simple CI/CD flow with Github Actions
+- [x] Add an infinite scrolling feature with lazy-loading
+- [x] Add `react-window` for virtualizing big lists
+- [x] Improve design 
+- [x] Improve UI to a masonry layout
 
 What needs to be done next
-- [ ] Add an infinite scrolling feature with lazy-loading
-- [ ] Add `react-window` for virtualizing big lists
 - [ ] Use a state manager for data and side-effects (`redux` or else)
 - [ ] Add skeletons for the loading pictures
-- [ ] Improve UI to a masonry layout
-- [ ] Improve design 

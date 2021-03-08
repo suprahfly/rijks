@@ -20,10 +20,11 @@ const getCaption = (title, hasError) => {
 /**
  * Gallery for displaying images
  */
-export const Painting = ({ src, title }) => {
+export const Painting = ({ data }) => {
+    const { longTitle: title, webImage } = data;
     const [hasError, setHasError] = useState(false);
     const handleError = useCallback(() => setHasError(true), []);
-    const _src = hasError ? errorIllustration : src;
+    const _src = hasError ? errorIllustration : webImage.url;
 
     return (
         <figure className={styles.root}>
@@ -34,6 +35,10 @@ export const Painting = ({ src, title }) => {
 };
 
 Painting.propTypes = {
-    src: PropTypes.string.isRequired,
-    title: PropTypes.string.isRequired,
+    data: PropTypes.shape({
+        webImage: PropTypes.shape({
+            url: PropTypes.string.isRequired,
+        }).isRequired,
+        longTitle: PropTypes.string.isRequired,
+    }),
 };
