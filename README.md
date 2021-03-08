@@ -5,7 +5,7 @@
 This is a simple proof of concept app that pulls the data from Rijksmuseum API and then display it as tiles of 1, 2 or 4 pieces.
 Right now it depends only on `react`, `react-dom` and `lodash` (mainly for my obsession with fp notation but it is not a necessity).
 
-To start the application you need to clone the repo, copy `.env.test.local -> .env` and replace it with your API_KEY.
+To start the application you need to clone the repo, copy `.env.test.local -> .env` and replace it with your `API_KEY`.
 Then run following commands in the app root directory:
 ```
 // Feel free to use `npm` as well
@@ -13,7 +13,7 @@ yarn install
 yarn start
 ```
 
-The server will available at `localhost:1234`
+The server will available at `localhost:1234`. Also build is deployed to https://suprahfly.github.io
 
 ---
 
