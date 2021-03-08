@@ -25,7 +25,7 @@ describe('App', () => {
         );
     });
 
-    it('should render first titles', async () => {
+    it.skip('should render first titles', async () => {
         const { getByText } = render(<App onLoad={resolvePaintings} />);
 
         const text =
